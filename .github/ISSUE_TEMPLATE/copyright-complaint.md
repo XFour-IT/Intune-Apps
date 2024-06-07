@@ -1,6 +1,6 @@
 ---
 name: Copyright Complaint
-about: Use this template to file any copyright complaints or contact oss@benjilewis.dev
+about: Use this template to file any copyright complaints or contact contact@xfour.co.uk
 title: Copyright Complaint
 labels: Copyright
 assignees: benjisoft

@@ -1,3 +1,9 @@
+<!--
+Copyright (C) 2024 XFour IT Limited <contact@xfour.co.uk>
+
+SPDX-License-Identifier: CC0-1.0
+-->
+
 # Intune Apps
 This repository contains popular .exe files converted to .intunewin format. This allows deployment via Intune that would otherwise not be possible. 
 
@@ -16,3 +22,6 @@ To ensure the security of deployment packages, please generate your own. There i
 2. Run the `BuildInstaller.ps1` script.
 3. Provide the name of the installer exe when prompted.
 4. The script will generate a .intunewin file in the `IntuneWin Installers` folder.
+
+# Copyright/ DMCA Complaints
+Please raise any copyright complaints [here](https://github.com/benjisoft/Intune-Apps/issues/new?assignees=benjisoft&labels=Copyright&projects=&template=copyright-complaint.md&title=Copyright+Complaint) or contact [contact@xfour.co.uk](mailto:contact@xfour.co.uk)

@@ -1,0 +1,5 @@
+# Copyright (C) 2024 XFour IT Limited <contact@xfour.co.uk>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+*.intunewin filter=lfs diff=lfs merge=lfs -text
